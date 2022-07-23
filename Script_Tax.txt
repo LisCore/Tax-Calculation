@@ -1,0 +1,56 @@
+Script started on 2022-07-23 11:58:10-07:00
+]0;corey.lee@vmcslinuxprod01:~/CS161B/week3corey.lee@vmcslinuxprod01:~/CS161B/week3 $ ./a03
+Welcome to my Income Tax Calculator
+Please enter the following information and I will calculate your Income Tax for you! '
+'
+Enter your Adjusted Gross Income: $20523
+Enter your filing status (0 = dependent, 1 = single, 2 = married) 
+4--  00
+Invalid Input, please try again!
+Enter your filing status (0 = dependent, 1 = single, 2 = married)
+1
+Enter the taxes withheld: $400
+Tax Summary:
+     AGI: $20523
+     Deduction: $12000
+     Taxable Income: $8523
+     Federal Tax: $852
+     Tax Due: $452
+'
+' Thank you for using my Income Tax Calculator!
+]0;corey.lee@vmcslinuxprod01:~/CS161B/week3corey.lee@vmcslinuxprod01:~/CS161B/week3 $ ./a03
+Welcome to my Income Tax Calculator
+Please enter the following information and I will calculate your Income Tax for you! '
+'
+Enter your Adjusted Gross Income: $80500
+Enter your filing status (0 = dependent, 1 = single, 2 = married) 
+2
+Enter the taxes withheld: $12000
+Tax Summary:
+     AGI: $80500
+     Deduction: $24000
+     Taxable Income: $56500
+     Federal Tax: $6380
+     Tax Due: $-5620
+'
+' Thank you for using my Income Tax Calculator!
+]0;corey.lee@vmcslinuxprod01:~/CS161B/week3corey.lee@vmcslinuxprod01:~/CS161B/week3 $ ./a03
+Welcome to my Income Tax Calculator
+Please enter the following information and I will calculate your Income Tax for you! '
+'
+Enter your Adjusted Gross Income: $25000
+Enter your filing status (0 = dependent, 1 = single, 2 = married) 
+0
+Enter the taxes withheld: $400
+Tax Summary:
+     AGI: $25000
+     Deduction: $6000
+     Taxable Income: $19000
+     Federal Tax: $2080
+     Tax Due: $1680
+'
+' Thank you for using my Income Tax Calculator!
+]0;corey.lee@vmcslinuxprod01:~/CS161B/week3corey.lee@vmcslinuxprod01:~/CS161B/week3 $ exit
+exit
+
+Script done on 2022-07-23 11:58:56-07:00
